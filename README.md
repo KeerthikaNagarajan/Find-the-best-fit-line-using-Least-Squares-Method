@@ -71,6 +71,7 @@ print("If x=3 then y=",y_3)
 ```
 
 ## Output:
+<img width="428" alt="ml1" src="https://user-images.githubusercontent.com/93427089/225253449-b133938e-dac0-4156-bead-dd86f62c831a.png">
 
 
 ## Result:
